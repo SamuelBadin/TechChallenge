@@ -1,0 +1,28 @@
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\ExercicioConversor\ExercicioConversor\bin\Debug\netcoreapp3.1\ExercicioConversor.exe
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\ExercicioConversor\ExercicioConversor\bin\Debug\netcoreapp3.1\ExercicioConversor.deps.json
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\ExercicioConversor\ExercicioConversor\bin\Debug\netcoreapp3.1\ExercicioConversor.runtimeconfig.json
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\ExercicioConversor\ExercicioConversor\bin\Debug\netcoreapp3.1\ExercicioConversor.runtimeconfig.dev.json
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\ExercicioConversor\ExercicioConversor\bin\Debug\netcoreapp3.1\ExercicioConversor.dll
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\ExercicioConversor\ExercicioConversor\bin\Debug\netcoreapp3.1\ExercicioConversor.pdb
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\ExercicioConversor\ExercicioConversor\obj\Debug\netcoreapp3.1\ExercicioConversor.csproj.AssemblyReference.cache
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\ExercicioConversor\ExercicioConversor\obj\Debug\netcoreapp3.1\ExercicioConversor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\ExercicioConversor\ExercicioConversor\obj\Debug\netcoreapp3.1\ExercicioConversor.AssemblyInfoInputs.cache
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\ExercicioConversor\ExercicioConversor\obj\Debug\netcoreapp3.1\ExercicioConversor.AssemblyInfo.cs
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\ExercicioConversor\ExercicioConversor\obj\Debug\netcoreapp3.1\ExercicioConversor.csproj.CoreCompileInputs.cache
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\ExercicioConversor\ExercicioConversor\obj\Debug\netcoreapp3.1\ExercicioConversor.dll
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\ExercicioConversor\ExercicioConversor\obj\Debug\netcoreapp3.1\ExercicioConversor.pdb
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\ExercicioConversor\ExercicioConversor\obj\Debug\netcoreapp3.1\ExercicioConversor.genruntimeconfig.cache
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 1 - Converter\ExercicioConversor\bin\Debug\netcoreapp3.1\ExercicioConversor.exe
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 1 - Converter\ExercicioConversor\bin\Debug\netcoreapp3.1\ExercicioConversor.deps.json
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 1 - Converter\ExercicioConversor\bin\Debug\netcoreapp3.1\ExercicioConversor.runtimeconfig.json
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 1 - Converter\ExercicioConversor\bin\Debug\netcoreapp3.1\ExercicioConversor.runtimeconfig.dev.json
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 1 - Converter\ExercicioConversor\bin\Debug\netcoreapp3.1\ExercicioConversor.dll
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 1 - Converter\ExercicioConversor\bin\Debug\netcoreapp3.1\ExercicioConversor.pdb
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 1 - Converter\ExercicioConversor\obj\Debug\netcoreapp3.1\ExercicioConversor.csproj.AssemblyReference.cache
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 1 - Converter\ExercicioConversor\obj\Debug\netcoreapp3.1\ExercicioConversor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 1 - Converter\ExercicioConversor\obj\Debug\netcoreapp3.1\ExercicioConversor.AssemblyInfoInputs.cache
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 1 - Converter\ExercicioConversor\obj\Debug\netcoreapp3.1\ExercicioConversor.AssemblyInfo.cs
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 1 - Converter\ExercicioConversor\obj\Debug\netcoreapp3.1\ExercicioConversor.csproj.CoreCompileInputs.cache
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 1 - Converter\ExercicioConversor\obj\Debug\netcoreapp3.1\ExercicioConversor.dll
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 1 - Converter\ExercicioConversor\obj\Debug\netcoreapp3.1\ExercicioConversor.pdb
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 1 - Converter\ExercicioConversor\obj\Debug\netcoreapp3.1\ExercicioConversor.genruntimeconfig.cache

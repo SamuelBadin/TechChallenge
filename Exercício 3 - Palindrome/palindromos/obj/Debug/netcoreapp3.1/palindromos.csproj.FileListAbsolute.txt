@@ -1,0 +1,28 @@
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\palindromos\palindromos\bin\Debug\netcoreapp3.1\palindromos.exe
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\palindromos\palindromos\bin\Debug\netcoreapp3.1\palindromos.deps.json
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\palindromos\palindromos\bin\Debug\netcoreapp3.1\palindromos.runtimeconfig.json
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\palindromos\palindromos\bin\Debug\netcoreapp3.1\palindromos.runtimeconfig.dev.json
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\palindromos\palindromos\bin\Debug\netcoreapp3.1\palindromos.dll
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\palindromos\palindromos\bin\Debug\netcoreapp3.1\palindromos.pdb
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\palindromos\palindromos\obj\Debug\netcoreapp3.1\palindromos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\palindromos\palindromos\obj\Debug\netcoreapp3.1\palindromos.AssemblyInfoInputs.cache
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\palindromos\palindromos\obj\Debug\netcoreapp3.1\palindromos.AssemblyInfo.cs
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\palindromos\palindromos\obj\Debug\netcoreapp3.1\palindromos.csproj.CoreCompileInputs.cache
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\palindromos\palindromos\obj\Debug\netcoreapp3.1\palindromos.dll
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\palindromos\palindromos\obj\Debug\netcoreapp3.1\palindromos.pdb
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\palindromos\palindromos\obj\Debug\netcoreapp3.1\palindromos.genruntimeconfig.cache
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\palindromos\palindromos\obj\Debug\netcoreapp3.1\palindromos.csproj.AssemblyReference.cache
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 3 - Palindrome\palindromos\bin\Debug\netcoreapp3.1\palindromos.exe
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 3 - Palindrome\palindromos\bin\Debug\netcoreapp3.1\palindromos.deps.json
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 3 - Palindrome\palindromos\bin\Debug\netcoreapp3.1\palindromos.runtimeconfig.json
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 3 - Palindrome\palindromos\bin\Debug\netcoreapp3.1\palindromos.runtimeconfig.dev.json
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 3 - Palindrome\palindromos\bin\Debug\netcoreapp3.1\palindromos.dll
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 3 - Palindrome\palindromos\bin\Debug\netcoreapp3.1\palindromos.pdb
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 3 - Palindrome\palindromos\obj\Debug\netcoreapp3.1\palindromos.csproj.AssemblyReference.cache
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 3 - Palindrome\palindromos\obj\Debug\netcoreapp3.1\palindromos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 3 - Palindrome\palindromos\obj\Debug\netcoreapp3.1\palindromos.AssemblyInfoInputs.cache
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 3 - Palindrome\palindromos\obj\Debug\netcoreapp3.1\palindromos.AssemblyInfo.cs
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 3 - Palindrome\palindromos\obj\Debug\netcoreapp3.1\palindromos.csproj.CoreCompileInputs.cache
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 3 - Palindrome\palindromos\obj\Debug\netcoreapp3.1\palindromos.dll
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 3 - Palindrome\palindromos\obj\Debug\netcoreapp3.1\palindromos.pdb
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 3 - Palindrome\palindromos\obj\Debug\netcoreapp3.1\palindromos.genruntimeconfig.cache

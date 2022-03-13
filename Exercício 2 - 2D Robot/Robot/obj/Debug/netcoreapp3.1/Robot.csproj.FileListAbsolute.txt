@@ -1,0 +1,28 @@
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Robot\Robot\bin\Debug\netcoreapp3.1\Robot.exe
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Robot\Robot\bin\Debug\netcoreapp3.1\Robot.deps.json
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Robot\Robot\bin\Debug\netcoreapp3.1\Robot.runtimeconfig.json
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Robot\Robot\bin\Debug\netcoreapp3.1\Robot.runtimeconfig.dev.json
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Robot\Robot\bin\Debug\netcoreapp3.1\Robot.dll
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Robot\Robot\bin\Debug\netcoreapp3.1\Robot.pdb
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Robot\Robot\obj\Debug\netcoreapp3.1\Robot.csproj.AssemblyReference.cache
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Robot\Robot\obj\Debug\netcoreapp3.1\Robot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Robot\Robot\obj\Debug\netcoreapp3.1\Robot.AssemblyInfoInputs.cache
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Robot\Robot\obj\Debug\netcoreapp3.1\Robot.AssemblyInfo.cs
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Robot\Robot\obj\Debug\netcoreapp3.1\Robot.csproj.CoreCompileInputs.cache
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Robot\Robot\obj\Debug\netcoreapp3.1\Robot.dll
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Robot\Robot\obj\Debug\netcoreapp3.1\Robot.pdb
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Robot\Robot\obj\Debug\netcoreapp3.1\Robot.genruntimeconfig.cache
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 2 - 2D Robot\Robot\bin\Debug\netcoreapp3.1\Robot.exe
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 2 - 2D Robot\Robot\bin\Debug\netcoreapp3.1\Robot.deps.json
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 2 - 2D Robot\Robot\bin\Debug\netcoreapp3.1\Robot.runtimeconfig.json
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 2 - 2D Robot\Robot\bin\Debug\netcoreapp3.1\Robot.runtimeconfig.dev.json
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 2 - 2D Robot\Robot\bin\Debug\netcoreapp3.1\Robot.dll
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 2 - 2D Robot\Robot\bin\Debug\netcoreapp3.1\Robot.pdb
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 2 - 2D Robot\Robot\obj\Debug\netcoreapp3.1\Robot.csproj.AssemblyReference.cache
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 2 - 2D Robot\Robot\obj\Debug\netcoreapp3.1\Robot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 2 - 2D Robot\Robot\obj\Debug\netcoreapp3.1\Robot.AssemblyInfoInputs.cache
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 2 - 2D Robot\Robot\obj\Debug\netcoreapp3.1\Robot.AssemblyInfo.cs
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 2 - 2D Robot\Robot\obj\Debug\netcoreapp3.1\Robot.csproj.CoreCompileInputs.cache
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 2 - 2D Robot\Robot\obj\Debug\netcoreapp3.1\Robot.dll
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 2 - 2D Robot\Robot\obj\Debug\netcoreapp3.1\Robot.pdb
+C:\Users\RHM - Samuel\Desktop\Exercicio teste\Exercício 2 - 2D Robot\Robot\obj\Debug\netcoreapp3.1\Robot.genruntimeconfig.cache
