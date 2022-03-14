@@ -26,8 +26,10 @@ namespace ExercicioConversor
             try
             {
                 // an integer representing the "reais".
+                Console.Write("Type the value in reais: ");
                 Int32 m = Int32.Parse(Console.ReadLine());
                 // an integer representing the "centavos"
+                Console.Write("Type the value in centavos: ");
                 int n = int.Parse(Console.ReadLine());
                 Console.Write(convertAmount2Words(m) + " reais ");
                 if (n != 0)
