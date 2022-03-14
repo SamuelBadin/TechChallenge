@@ -13,7 +13,7 @@ Output Format
 Print the amount in words.
 
 */
-//Got an issue trying to put everything inside a single function, so I decided to split into two different functions (one for reais and another for centavos.)
+//I splitted the code into two different functions (one for reais and another for centavos).
 
 using System;
 
